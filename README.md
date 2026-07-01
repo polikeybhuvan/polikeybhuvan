@@ -2,9 +2,11 @@
 
 **AWS Cloud & AI Engineer | Generative AI Specialist | Serverless Solutions Developer**
 
-Jamshedpur, Jharkhand, India
+![Location](https://img.shields.io/badge/-Jamshedpur%2C%20Jharkhand%2C%20India-informational?style=flat-square&logo=googlemaps&logoColor=white)
 
-[Portfolio](https://polikey-bhuvan-174212344728.asia-southeast1.run.app) · [LinkedIn](https://linkedin.com/in/polikeybhuvan) · [Email](mailto:polikeybhuvan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://polikey-bhuvan-174212344728.asia-southeast1.run.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/polikeybhuvan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:polikeybhuvan@gmail.com)
 
 ---
 
