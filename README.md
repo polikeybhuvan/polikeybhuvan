@@ -2,7 +2,7 @@
 
 **AWS Cloud & AI Engineer | Generative AI Specialist | Serverless Solutions Developer**
 
-![Location](https://img.shields.io/badge/-Jamshedpur%2C%20Jharkhand%2C%20India-informational?style=flat-square&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/-Jamshedpur%2C%20Jharkhand%2C%20India-white?style=flat-square&logo=googlemaps&logoColor=black)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://polikey-bhuvan-174212344728.asia-southeast1.run.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/polikeybhuvan)
@@ -62,6 +62,7 @@ I hold six AWS certifications spanning Solutions Architect, Machine Learning, an
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Maya](https://img.shields.io/badge/Maya-0696D7?style=flat-square&logo=autodesk&logoColor=white)
 
 **Languages**
 
