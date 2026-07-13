@@ -8,6 +8,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/polikeybhuvan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:polikeybhuvan@gmail.com)
 
+<br>
+
+<img src="./terminal-card.svg" alt="Polikey Bhuvan terminal card" width="100%">
+
+<br>
+
 ---
 
 ## About Me
