@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="./terminal-card.svg" alt="Polikey Bhuvan terminal card" width="100%">
+<img src="./terminal-card-photo.svg" alt="Polikey Bhuvan terminal card" width="100%">
 
 <br>
 
