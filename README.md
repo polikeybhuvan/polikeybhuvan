@@ -114,7 +114,7 @@ Fully immersive VR residential environment built in Unreal Engine 5, with photor
 
 ---
 
-## 💼 Experience
+## 💼 Experience 
 
 **Software Engineering Intern — Tata Steel Ltd. (SNTI)**, Jun 2025
 Engineered an event-driven serverless system (Lambda, SNS, S3, DynamoDB) for real-time business event processing, reducing notification latency to near-zero. Built a cloud-native audiobook generator and a real-time upload notifier, and deployed a production portfolio on S3.
