@@ -70,10 +70,10 @@ I hold six AWS certifications spanning Solutions Architect, Machine Learning, an
 
 **AI & Data**
 
+![Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white)
 
 **Game Dev & VR**
