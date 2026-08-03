@@ -140,7 +140,7 @@ Conducted end-to-end data analysis supporting NRIF reports aligned with UN Susta
 
 ## 📊 GitHub Stats
 
-![Bhuvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=polikeybhuvan&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=polikeybhuvan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
 
 ---
 
