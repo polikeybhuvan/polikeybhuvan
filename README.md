@@ -1,3 +1,14 @@
+<!--
+README Redesign Suggestions:
+- Use a full-width animated hero banner.
+- Add typing SVG under your name.
+- Add profile views & follower badges.
+- Convert Tech Stack into icon grid.
+- Add Architecture / AI expertise section.
+- Showcase featured projects in cards.
+- Add contribution snake animation.
+- Add timeline for certifications.
+-->
 # Polikey Bhuvan
 
 **AWS Cloud & AI Engineer | Generative AI Specialist | Serverless Solutions Developer**
@@ -59,9 +70,11 @@ I hold six AWS certifications spanning Solutions Architect, Machine Learning, an
 
 **AI & Data**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![GenAI](https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white)
 
 **Game Dev & VR**
 
@@ -72,6 +85,7 @@ I hold six AWS certifications spanning Solutions Architect, Machine Learning, an
 
 **Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
