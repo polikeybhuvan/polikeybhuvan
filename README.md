@@ -12,7 +12,7 @@
 *Building in the cloud, learning with purpose, and exploring how AI can solve real problems.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/polikeybhuvan/)
-[![Google Cloud Skills](https://img.shields.io/badge/Google%20Cloud-123%20Skill%20Badges-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/b3452349-3c62-49a7-9a53-6695f04d8ad5)
+[![Google Cloud Skills](https://img.shields.io/badge/Google%20Cloud-120%2B%20Skill%20Badges-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/b3452349-3c62-49a7-9a53-6695f04d8ad5)
 [![Email](https://img.shields.io/badge/Email-Let's%20connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:polikeybhuvan@gmail.com)
 
 </div>
