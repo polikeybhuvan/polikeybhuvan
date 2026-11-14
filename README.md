@@ -97,23 +97,10 @@ Earned **120+ Google Cloud Skills badges** across Cloud and AI topics, including
 
 <div align="center">
 
-<table width="100%" border="0">
-  <tr>
-    <td width="76%" align="center" valign="middle">
-      <img src="./assets/profile-outro-v2.svg" alt="Learn. Build. Deploy. Cloud Engineering, Applied AI, Class of 2027." width="100%">
-    </td>
-    <td width="24%" align="center" valign="middle">
-      <sub>LET’S CONNECT</sub><br><br>
-      <a href="https://www.linkedin.com/in/polikeybhuvan/" aria-label="LinkedIn">
-        <img src="./assets/linkedin.svg" alt="LinkedIn" height="30" width="30">
-      </a>
-      &nbsp;&nbsp;
-      <a href="mailto:polikeybhuvan@gmail.com" aria-label="Email">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="30">
-      </a><br><br>
-      <sub>LINKEDIN&nbsp;&nbsp; EMAIL</sub>
-    </td>
-  </tr>
-</table>
+<img src="./assets/profile-outro-v2.svg" alt="Learn. Build. Deploy. Cloud Engineering, Applied AI, Class of 2027." width="100%">
+
+<a href="https://www.linkedin.com/in/polikeybhuvan/" aria-label="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+&nbsp;
+<a href="mailto:polikeybhuvan@gmail.com" aria-label="Email"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Bhuvan"></a>
 
 </div>
