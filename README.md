@@ -33,7 +33,7 @@ I worked with **AWS** during my Tata Steel SNTI internship and am currently deve
 
 </div>
 
-## Skills & tools ->
+## Skills & tools
 
 
 
@@ -87,17 +87,21 @@ Earned **120+ Google Cloud Skills badges** across Cloud and AI topics, including
 
 ## Contribution trail
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/polikeybhuvan/polikeybhuvan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/polikeybhuvan/polikeybhuvan/output/github-contribution-grid-snake.svg">
   <img alt="A snake winding through my GitHub contribution graph" src="https://raw.githubusercontent.com/polikeybhuvan/polikeybhuvan/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
+
 ---
 
 <div align="center">
 
 <img src="./assets/profile-outro-v2.svg" alt="Learn. Build. Deploy. Cloud Engineering, Applied AI, Class of 2027." width="100%">
+
+
 
 <a href="https://www.linkedin.com/in/polikeybhuvan/" aria-label="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
 &nbsp;
