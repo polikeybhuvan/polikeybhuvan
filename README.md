@@ -61,10 +61,10 @@ I worked with **AWS** during my Tata Steel SNTI internship and am currently deve
 <div align="center">
 
 <a href="https://github.com/polikeybhuvan">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=polikeybhuvan&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&rank_icon=github&include_all_commits=true" alt="GitHub profile statistics">
+  <img height="165" src="https://raw.githubusercontent.com/polikeybhuvan/polikeybhuvan/output/github-profile-stats.svg" alt="GitHub profile statistics">
 </a>
 <a href="https://github.com/polikeybhuvan?tab=repositories">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=polikeybhuvan&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most used languages across public repositories">
+  <img height="165" src="https://raw.githubusercontent.com/polikeybhuvan/polikeybhuvan/output/github-top-languages.svg" alt="Most used languages across public repositories">
 </a>
 
 </div>

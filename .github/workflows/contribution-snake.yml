@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile visuals
 
 on:
   schedule:
@@ -12,6 +12,10 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+      - name: Generate profile stats cards
+        run: node scripts/generate-profile-stats.mjs
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
