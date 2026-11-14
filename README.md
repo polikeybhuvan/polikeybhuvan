@@ -33,7 +33,9 @@ I worked with **AWS** during my Tata Steel SNTI internship and am currently deve
 
 </div>
 
-## Skills & tools
+## Skills & tools ->
+
+
 
 **Cloud platforms**<br>
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Learning-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
@@ -90,8 +92,6 @@ Earned **120+ Google Cloud Skills badges** across Cloud and AI topics, including
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/polikeybhuvan/polikeybhuvan/output/github-contribution-grid-snake.svg">
   <img alt="A snake winding through my GitHub contribution graph" src="https://raw.githubusercontent.com/polikeybhuvan/polikeybhuvan/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
-
-<sub>The contribution snake refreshes daily.</sub>
 
 ---
 
