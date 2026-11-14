@@ -54,7 +54,7 @@ Earned **120+ Google Cloud Skills badges** across Cloud and AI topics, including
 
 ## Selected projects
 
-<table>
+<table width="100%" border="0">
   <tr>
     <td width="33%" valign="top" align="center">
       <a href="https://github.com/polikeybhuvan/tata-steel-serverless-internship">
@@ -97,7 +97,7 @@ Earned **120+ Google Cloud Skills badges** across Cloud and AI topics, including
 
 <div align="center">
 
-<table>
+<table width="100%" border="0">
   <tr>
     <td width="76%" align="center" valign="middle">
       <img src="./assets/profile-outro-v2.svg" alt="Learn. Build. Deploy. Cloud Engineering, Applied AI, Class of 2027." width="100%">
