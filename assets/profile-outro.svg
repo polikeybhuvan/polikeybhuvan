@@ -27,7 +27,7 @@
   <text x="34" y="83" class="headline">Learn. Build. Deploy.</text>
   <text x="34" y="111" class="caption">Cloud Engineering  ·  Applied AI  ·  Hackathon projects</text>
   <path d="M748 36V114" stroke="#30363D"/>
-  <text x="784" y="82" class="year">2027</text>
-  <text x="786" y="105" class="year-label">CLASS OF</text>
+  <text x="786" y="66" class="year-label">CLASS OF</text>
+  <text x="784" y="105" class="year">2027</text>
   <path d="M905 75h23m-8-8 8 8-8 8" fill="none" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
