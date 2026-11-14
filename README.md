@@ -107,6 +107,6 @@ Earned **120+ Google Cloud Skills badges** across Cloud and AI topics, including
 
 <br><br>
 
-<img src="./assets/profile-outro.svg" alt="Learn. Build. Deploy. Cloud Engineering, Applied AI, Class of 2027." width="100%">
+<img src="./assets/profile-outro.svg?v=2" alt="Learn. Build. Deploy. Cloud Engineering, Applied AI, Class of 2027." width="100%">
 
 </div>
