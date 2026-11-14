@@ -105,6 +105,8 @@ Earned **120+ Google Cloud Skills badges** across Cloud and AI topics, including
   <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="30">
 </a>
 
-### Building cloud projects for hackathons · Growing as a Cloud Engineer
+<br><br>
+
+<img src="./assets/profile-outro.svg" alt="Learn. Build. Deploy. Cloud Engineering, Applied AI, Class of 2027." width="100%">
 
 </div>

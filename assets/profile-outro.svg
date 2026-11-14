@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 150" role="img" aria-labelledby="title description">
+  <title id="title">Learn. Build. Deploy.</title>
+  <desc id="description">Cloud Engineering, Applied AI, Class of 2027.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF"/>
+      <stop offset=".55" stop-color="#A371F7"/>
+      <stop offset="1" stop-color="#3FB950"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#1F3B59" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#0D1117" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .eyebrow{font:700 10px 'Segoe UI',Ubuntu,sans-serif;letter-spacing:2.4px;fill:#8B949E}
+    .headline{font:700 32px 'Segoe UI',Ubuntu,sans-serif;fill:#F0F6FC}
+    .caption{font:13px 'Segoe UI',Ubuntu,sans-serif;fill:#9DA7B3}
+    .year{font:700 38px 'Segoe UI',Ubuntu,sans-serif;fill:#58A6FF}
+    .year-label{font:700 9px 'Segoe UI',Ubuntu,sans-serif;letter-spacing:2px;fill:#8B949E}
+  </style>
+  <rect x="1" y="1" width="958" height="148" rx="16" fill="#0D1117" stroke="#30363D"/>
+  <path d="M18 2H942" stroke="url(#accent)" stroke-width="2" stroke-linecap="round"/>
+  <rect x="1" y="17" width="4" height="116" rx="2" fill="url(#accent)"/>
+  <circle cx="810" cy="74" r="135" fill="url(#halo)"/>
+  <text x="34" y="43" class="eyebrow">THE ROAD AHEAD</text>
+  <text x="34" y="83" class="headline">Learn. Build. Deploy.</text>
+  <text x="34" y="111" class="caption">Cloud Engineering  ·  Applied AI  ·  Hackathon projects</text>
+  <path d="M748 36V114" stroke="#30363D"/>
+  <text x="784" y="82" class="year">2027</text>
+  <text x="786" y="105" class="year-label">CLASS OF</text>
+  <path d="M905 75h23m-8-8 8 8-8 8" fill="none" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
