@@ -37,27 +37,27 @@ I worked with **AWS** during my Tata Steel SNTI internship and am currently deve
   <tr>
     <td width="33%" valign="top" align="center">
       <a href="https://github.com/polikeybhuvan/signoz-ai-sre-agent">
-        <img src="https://repository-images.githubusercontent.com/1312640745/fbd338d9-1898-42d1-8b8a-863ed2897263" alt="AI SRE Agent social preview" width="100%" height="150">
+        <img src="./assets/ai-sre-social-preview.png" alt="AI SRE Agent social preview" width="100%" height="140">
       </a>
       <h3><a href="https://github.com/polikeybhuvan/signoz-ai-sre-agent">AI SRE Agent</a></h3>
-      <p>Gemini investigates simulated service incidents by correlating SigNoz logs and traces. Selected in the <strong>Top 100 of 350+ submissions</strong> at the Agents of SigNoz Hackathon.</p>
-      <p><sub>Python · Gemini · FastAPI · SigNoz · OpenTelemetry</sub></p>
+      <p>Investigates incidents with Gemini<br>across SigNoz logs and traces.<br>Top 100 of 350+ hackathon entries<br>at Agents of SigNoz.</p>
+      <p><sub>Python · Gemini · FastAPI<br>SigNoz · OpenTelemetry</sub></p>
     </td>
     <td width="33%" valign="top" align="center">
       <a href="https://github.com/polikeybhuvan/tata-steel-serverless-internship">
-        <img src="https://repository-images.githubusercontent.com/1322172530/25f40102-f0ed-4f56-80ea-921de38a7633" alt="Tata Steel AWS serverless projects social preview" width="100%" height="150">
+        <img src="./assets/tata-steel-social-preview.jpg" alt="Tata Steel AWS internship social preview" width="100%" height="140">
       </a>
       <h3><a href="https://github.com/polikeybhuvan/tata-steel-serverless-internship">Tata Steel · AWS Serverless</a></h3>
-      <p>Four SNTI internship projects explore AWS hosting, event-driven automation, audio generation, notifications, and a conversational cloud assistant.</p>
-      <p><sub>AWS · Lambda · S3 · SNS · Polly · Lex V2</sub></p>
+      <p>Four SNTI internship projects across<br>AWS hosting, event-driven workflows,<br>text-to-audio, notifications, and a<br>conversational assistant.</p>
+      <p><sub>AWS · Lambda · S3 · SNS<br>Polly · Lex V2</sub></p>
     </td>
     <td width="33%" valign="top" align="center">
       <a href="https://github.com/polikeybhuvan/Guardian">
-        <img src="https://repository-images.githubusercontent.com/1439034130/a958f72a-1906-4ed5-9230-29228b9d19c1" alt="Guardian emergency-support project social preview" width="100%" height="150">
+        <img src="./assets/guardian-social-preview.jpg" alt="Guardian emergency-support social preview" width="100%" height="140">
       </a>
       <h3><a href="https://github.com/polikeybhuvan/Guardian">Guardian</a></h3>
-      <p>Android emergency support combines an offline India map, SOS tools, and Gemma-powered guidance for situations with limited connectivity.</p>
-      <p><sub>Android · Kotlin · Gemma 3 · Offline maps</sub></p>
+      <p>Offline-first Android emergency app<br>with India maps, SOS tools, and<br>on-device Gemma guidance for<br>limited-connectivity situations.</p>
+      <p><sub>Android · Kotlin · Gemma 3<br>Offline maps · On-device AI</sub></p>
     </td>
   </tr>
 </table>
