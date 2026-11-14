@@ -11,9 +11,9 @@
 
 *Building in the cloud, learning with purpose, and exploring how AI can solve real problems.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/polikeybhuvan/)
-[![Google Cloud Skills](https://img.shields.io/badge/Google%20Cloud-120%2B%20Skill%20Badges-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/b3452349-3c62-49a7-9a53-6695f04d8ad5)
-[![Email](https://img.shields.io/badge/Email-Let's%20connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:polikeybhuvan@gmail.com)
+![Cloud Engineering](https://img.shields.io/badge/FOCUS-Cloud%20Engineering-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Generative AI](https://img.shields.io/badge/EXPLORING-Generative%20AI%20%26%20Agents-8B5CF6?style=for-the-badge)
+![Class of 2027](https://img.shields.io/badge/B.TECH-CLASS%20OF%202027-238636?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -24,6 +24,33 @@
 I’m a fourth-year **B.Tech Computer Science** student specializing in **Cloud Engineering**. I’m focused on building cloud projects for hackathons and growing the skills to design and operate reliable cloud systems.
 
 I worked with **AWS** during my Tata Steel SNTI internship and am currently developing my **Google Cloud** skills through hands-on labs and learning paths. I’m also exploring **generative AI, AI agents, and on-device AI**.
+
+## GitHub at a glance
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/polikeybhuvan/polikeybhuvan/output/github-profile-dashboard.svg" alt="GitHub dashboard with repository metrics and a language mix chart" width="100%">
+
+</div>
+
+## Skills & tools
+
+**Cloud platforms**<br>
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Learning-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Internship%20projects-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+**AI, observability & development**<br>
+![Generative AI](https://img.shields.io/badge/Generative%20AI-Exploring-8E75B2?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-7B61FF?style=flat-square&logo=opentelemetry&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Google Cloud learning**<br>
+Earned **120+ Google Cloud Skills badges** across Cloud and AI topics, including architecture, networking, security, Kubernetes, serverless, generative AI, Vertex AI, and MLOps.
+
+[Explore my Google Cloud Skills profile →](https://www.skills.google/public_profiles/b3452349-3c62-49a7-9a53-6695f04d8ad5)
 
 ## Selected projects
 
@@ -56,19 +83,6 @@ I worked with **AWS** during my Tata Steel SNTI internship and am currently deve
   </tr>
 </table>
 
-## GitHub at a glance
-
-<div align="center">
-
-<a href="https://github.com/polikeybhuvan">
-  <img height="165" src="https://raw.githubusercontent.com/polikeybhuvan/polikeybhuvan/output/github-profile-stats.svg" alt="GitHub profile statistics">
-</a>
-<a href="https://github.com/polikeybhuvan?tab=repositories">
-  <img height="165" src="https://raw.githubusercontent.com/polikeybhuvan/polikeybhuvan/output/github-top-languages.svg" alt="Most used languages across public repositories">
-</a>
-
-</div>
-
 ## Contribution trail
 
 <picture>
@@ -77,34 +91,20 @@ I worked with **AWS** during my Tata Steel SNTI internship and am currently deve
   <img alt="A snake winding through my GitHub contribution graph" src="https://raw.githubusercontent.com/polikeybhuvan/polikeybhuvan/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-<sub>The contribution snake refreshes daily. It appears after the workflow's first successful run.</sub>
-
-## Skills & tools
-
-**Cloud platforms**  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Learning-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Internship%20projects-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-
-**AI, observability & development**  
-![Generative AI](https://img.shields.io/badge/Generative%20AI-Exploring-8E75B2?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-7B61FF?style=flat-square&logo=opentelemetry&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### Google Cloud learning
-
-Earned **120+ Google Cloud Skills badges** across Cloud and AI topics, including architecture, networking, security, Kubernetes, serverless, generative AI, Vertex AI, and MLOps.
-
-[Explore my Google Cloud Skills profile →](https://www.skills.google/public_profiles/b3452349-3c62-49a7-9a53-6695f04d8ad5)
+<sub>The contribution snake refreshes daily.</sub>
 
 ---
 
 <div align="center">
 
-### Building cloud projects for hackathons · Growing as a Cloud Engineer
+<a href="https://www.linkedin.com/in/polikeybhuvan/" aria-label="LinkedIn">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:polikeybhuvan@gmail.com" aria-label="Email">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="30">
+</a>
 
-[LinkedIn](https://www.linkedin.com/in/polikeybhuvan/) · [Email](mailto:polikeybhuvan@gmail.com)
+### Building cloud projects for hackathons · Growing as a Cloud Engineer
 
 </div>
