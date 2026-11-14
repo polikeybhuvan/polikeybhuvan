@@ -78,7 +78,7 @@ I worked with **AWS** during my Tata Steel SNTI internship and am currently deve
 
 ### Google Cloud learning
 
-Earned **123 Google Cloud Skills badges** across Cloud and AI topics, including architecture, networking, security, Kubernetes, serverless, generative AI, Vertex AI, and MLOps.
+Earned **120+ Google Cloud Skills badges** across Cloud and AI topics, including architecture, networking, security, Kubernetes, serverless, generative AI, Vertex AI, and MLOps.
 
 [Explore my Google Cloud Skills profile →](https://www.skills.google/public_profiles/b3452349-3c62-49a7-9a53-6695f04d8ad5)
 
