@@ -98,7 +98,7 @@ Earned **120+ Google Cloud Skills badges** across Cloud and AI topics, including
 <div align="center">
 
 <a href="https://www.linkedin.com/in/polikeybhuvan/" aria-label="LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
+  <img src="./assets/linkedin.svg" alt="LinkedIn" height="30" width="30">
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:polikeybhuvan@gmail.com" aria-label="Email">
