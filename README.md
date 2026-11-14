@@ -25,24 +25,10 @@ I’m a fourth-year **B.Tech Computer Science** student specializing in **Cloud 
 
 I worked with **AWS** during my Tata Steel SNTI internship and am currently developing my **Google Cloud** skills through hands-on labs and learning paths. I’m also exploring **generative AI, AI agents, and on-device AI**.
 
-## Cloud + AI journey
-
-| 🎓 Student | ☁️ Cloud | 🤖 AI |
-|:--:|:--:|:--:|
-| B.Tech Computer Science  ·  Class of 2027 | AWS internship projects  ·  Google Cloud learning | Generative AI  ·  AI agents  ·  On-device AI |
-
 ## Selected projects
 
 <table>
   <tr>
-    <td width="33%" valign="top" align="center">
-      <a href="https://github.com/polikeybhuvan/signoz-ai-sre-agent">
-        <img src="./assets/ai-sre-social-preview.png" alt="AI SRE Agent social preview" width="100%" height="140">
-      </a>
-      <h3><a href="https://github.com/polikeybhuvan/signoz-ai-sre-agent">AI SRE Agent</a></h3>
-      <p>Investigates incidents with Gemini<br>across SigNoz logs and traces.<br>Top 100 of 350+ hackathon entries<br>at Agents of SigNoz.</p>
-      <p><sub>Python · Gemini · FastAPI<br>SigNoz · OpenTelemetry</sub></p>
-    </td>
     <td width="33%" valign="top" align="center">
       <a href="https://github.com/polikeybhuvan/tata-steel-serverless-internship">
         <img src="./assets/tata-steel-social-preview.jpg" alt="Tata Steel AWS internship social preview" width="100%" height="140">
@@ -50,6 +36,14 @@ I worked with **AWS** during my Tata Steel SNTI internship and am currently deve
       <h3><a href="https://github.com/polikeybhuvan/tata-steel-serverless-internship">Tata Steel · AWS Serverless</a></h3>
       <p>Four SNTI internship projects across<br>AWS hosting, event-driven workflows,<br>text-to-audio, notifications, and a<br>conversational assistant.</p>
       <p><sub>AWS · Lambda · S3 · SNS<br>Polly · Lex V2</sub></p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/polikeybhuvan/signoz-ai-sre-agent">
+        <img src="./assets/ai-sre-social-preview.png" alt="AI SRE Agent social preview" width="100%" height="140">
+      </a>
+      <h3><a href="https://github.com/polikeybhuvan/signoz-ai-sre-agent">AI SRE Agent</a></h3>
+      <p>Investigates incidents with Gemini<br>across SigNoz logs and traces.<br>Top 100 of 350+ hackathon entries<br>at Agents of SigNoz.</p>
+      <p><sub>Python · Gemini · FastAPI<br>SigNoz · OpenTelemetry</sub></p>
     </td>
     <td width="33%" valign="top" align="center">
       <a href="https://github.com/polikeybhuvan/Guardian">
@@ -61,6 +55,29 @@ I worked with **AWS** during my Tata Steel SNTI internship and am currently deve
     </td>
   </tr>
 </table>
+
+## GitHub at a glance
+
+<div align="center">
+
+<a href="https://github.com/polikeybhuvan">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=polikeybhuvan&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&rank_icon=github&include_all_commits=true" alt="GitHub profile statistics">
+</a>
+<a href="https://github.com/polikeybhuvan?tab=repositories">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polikeybhuvan&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most used languages across public repositories">
+</a>
+
+</div>
+
+## Contribution trail
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/polikeybhuvan/polikeybhuvan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/polikeybhuvan/polikeybhuvan/output/github-contribution-grid-snake.svg">
+  <img alt="A snake winding through my GitHub contribution graph" src="https://raw.githubusercontent.com/polikeybhuvan/polikeybhuvan/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<sub>The contribution snake refreshes daily. It appears after the workflow's first successful run.</sub>
 
 ## Skills & tools
 
